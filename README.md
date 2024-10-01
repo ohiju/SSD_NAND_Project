@@ -1,1 +1,1 @@
-### NAND Flash Memory ToyProject
+### NAND Flash Memory Project
